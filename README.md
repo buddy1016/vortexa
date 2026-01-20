@@ -18,4 +18,3 @@ Check out a live demo of VORTEXA at https://vortexa.netlify.app/.
 ## This is the upgraded version of CliMate weather app
 Old version Demo: https://klimate.netlify.app/
 
-Old version Github: https://github.com/ChiragChrg/CliMate
