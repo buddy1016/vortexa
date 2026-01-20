@@ -13,50 +13,6 @@ Check out a live demo of VORTEXA at https://vortexa.netlify.app/.
 
 ## Tools and TechStacks used :
 
-<div align="center">
-      <img
-        alt="Astro JS"
-        title="Astro JS"
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/astrojs.svg"
-      />
-      <img
-        alt="Preact JS"
-        title="Preact JS"
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/preactjs.svg"
-      />
-      <img 
-        alt="Typescript" 
-        title="Typescript" 
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/typescript.svg" 
-      />
-      <img 
-        alt="Tailwind CSS" 
-        title="Tailwind CSS" 
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/tailwind.svg" 
-      />
-      <img 
-        alt="Nanostores" 
-        title="Nanostores" 
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nanostores.svg" 
-      />
-      <img 
-        alt="D3 JS" 
-        title="D3 JS" 
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/d3js.svg" 
-      />
-      <img 
-        alt="API" 
-        title="API" 
-        width="40px"
-        src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/database.svg" 
-      />
-</div>
 
 
 ## This is the upgraded version of CliMate weather app
